@@ -1,0 +1,15 @@
+{
+  "name": "@rmckee-cleo/cleo-cli-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "cleo-cli.darwin-universal.node",
+  "files": [
+    "cleo-cli.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
