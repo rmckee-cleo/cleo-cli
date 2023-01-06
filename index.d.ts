@@ -5,3 +5,4 @@
 
 export function plus100(input: number): number
 export function fibonacci(input: number): number
+export function main(): void

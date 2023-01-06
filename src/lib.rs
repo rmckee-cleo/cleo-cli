@@ -14,3 +14,8 @@ pub fn fibonacci(input: u32) -> u32 {
   }
   fibonacci(input - 1) + fibonacci(input - 2)
 }
+
+#[napi]
+pub fn main() {
+  println!("Hello, world!");
+}

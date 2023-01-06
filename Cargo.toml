@@ -10,6 +10,7 @@ version = "0.1.0"
 crate-type = ["cdylib"]
 
 [dependencies]
+inquire = "0.5.2"
 napi = "2"
 napi-derive = "2"
 
