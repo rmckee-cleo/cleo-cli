@@ -5,7 +5,6 @@ version = "0.0.0"
 
 [lib]
 crate-type = ["cdylib"]
-name = "cleo"
 
 [dependencies]
 aws-config = "0.52.0"
